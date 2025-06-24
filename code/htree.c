@@ -1,6 +1,3 @@
-// Matthew Du    mhd210005
-// Ashley Nguyen atn210009
-
 #include "common.h"
 #include "common_threads.h"
 #include <errno.h>            // EINTR
